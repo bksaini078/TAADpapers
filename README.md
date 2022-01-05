@@ -29,12 +29,12 @@ We thank all the great [contributors](#contributors) very much.
 
 ## 1. Survey Papers
 1. **Token-Modification Adversarial Attacks for Natural Language Processing: A Survey**.*Tom Roth, Yansong Gao, Alsharif Abuadbba, Surya Nepal, Wei Liu.* arXiv 2021. [[pdf](https://arxiv.org/pdf/2103.00676.pdf)]
-1. **A Survey on Adversarial Attacks and Defenses in Text**. *Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang, Aoshuang Ye*. arXiv 2020. [[pdf (https://arxiv.org/pdf/1902.07285v2.pdf)]
+1. **A Survey on Adversarial Attacks and Defenses in Text**. *Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang, Aoshuang Ye*. arXiv 2020. [[pdf](https://arxiv.org/pdf/1902.07285v2.pdf)]
 1. **Adversarial Attacks and Defense on Texts: A Survey**. *Aminul Huq, Mst. Tasnim Pervin*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2005.14108.pdf)]
-1. **Towards a Robust Deep Neural Network in Texts: A Survey**. *Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang, Aoshuang Ye*. arXiv 2020. [[pdf(https://arxiv.org/pdf/1902.07285.pdf)]
+1. **Towards a Robust Deep Neural Network in Texts: A Survey**. *Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang, Aoshuang Ye*. arXiv 2020. [[pdf](https://arxiv.org/pdf/1902.07285.pdf)]
 1. **Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey**. *Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li*. ACM TIST 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3374217)]
 1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review**. *Han Xu, Yao Ma, Hao-chen Liu, Debayan Deb, Hui Liu, Ji-liang Tang, Anil K. Jain*. International Journal of Automation and Computing 2020. [[pdf](https://link.springer.com/content/pdf/10.1007/s11633-019-1211-x.pdf)]
-1. **Analysis Methods in Neural Language Processing: A Survey**. *Yonatan Belinkov, James Glass*. TACL 2019. [[pdf (https://www.aclweb.org/anthology/papers/Q/Q19/Q19-1004/)]
+1. **Analysis Methods in Neural Language Processing: A Survey**. *Yonatan Belinkov, James Glass*. TACL 2019. [[pdf](https://www.aclweb.org/anthology/papers/Q/Q19/Q19-1004/)]
 
 ## 2. Attack Papers
 
